@@ -1,7 +1,5 @@
 # Spicy Watermelon
 
-# The Euler Cookbook
-
 A django site.
 
 ## Setup
